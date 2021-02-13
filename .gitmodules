@@ -1,0 +1,3 @@
+[submodule "yelp-app"]
+	path = yelp-app
+	url = git@github.com:juank1791/yelp-app.git

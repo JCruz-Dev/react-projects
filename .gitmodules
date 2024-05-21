@@ -1,3 +1,6 @@
 [submodule "yelp-app"]
 	path = yelp-app
 	url = git@github.com:juank1791/yelp-app.git
+[submodule "pulseara-procedures"]
+	path = pulseara-procedures
+	url = https://github.com/JCruz-Dev/pulseara-procedures
